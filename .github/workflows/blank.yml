@@ -1,5 +1,7 @@
 # This is a basic workflow to help you get started with Actions
-
+theme: jekyll-theme-minimal
+title: Imran homepage
+description: Bookmark this to keep an eye on my project updates!
 name: CI
 
 # Controls when the workflow will run
